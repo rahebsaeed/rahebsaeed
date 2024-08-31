@@ -1,10 +1,12 @@
 <h1 align="center">👋 Hi, I’m @rahebsaeed <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/:RaheebAref" alt="Raheeb Aref" /></a></h1>
-<h3 align="center">👀 I'm interested in Mechatronics And new Technologyy</h3>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" />
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" />
-</p>
+<h3 align="center">👀 I'm interested in Mechatronics And new Technology</h3>
+
+<div class="stats-container">
+    <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" />
+</div>
+
 <ul>
     <li>🌱 I’m currently learning <strong>Smart Industry</strong>.</li>
     <li>💞️ I’m looking to collaborate on <strong>projects related to signal processing, smart industry, or innovative embedded systems solutions</strong>.</li>
@@ -51,3 +53,20 @@
     <img src="https://img.shields.io/badge/Ladder-0066CC?style=flat&logo=automation&logoColor=white" alt="Ladder" />
     <img src="https://img.shields.io/badge/FluidSIM-0078D4?style=flat&logo=siemens&logoColor=white" alt="FluidSIM" />
 </p>
+<style>
+    .stats-container {
+        display: flex;
+        justify-content: space-around; /* Distribute images evenly */
+        margin-bottom: 20px; /* Space below the container */
+    }
+
+    .stats-container img {
+        max-width: 100%; /* Ensure images don't overflow */
+        height: auto; /* Maintain aspect ratio */
+        margin: 0 10px; /* Space between images */
+    }
+
+    ul {
+        padding-left: 20px; /* Add padding to avoid overlap with images */
+    }
+</style>
