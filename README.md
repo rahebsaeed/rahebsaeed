@@ -1,13 +1,11 @@
 <h1 align="center">👋 Hi, I’m @rahebsaeed <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/:RaheebAref" alt="Raheeb Aref" /></a></h1>
 <h3 align="center">👀 I'm interested in Mechatronics And new Technology</h3>
 
-<p>
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" /></p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<p>&nbsp&nbsp&nbsp&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" /></p><br/>
-
-
-</p>
+</div>
 
 <ul>
     <li>🌱 I’m currently learning <strong>Smart Industry</strong>.</li>
