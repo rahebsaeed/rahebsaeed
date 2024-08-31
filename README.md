@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m @rahebsaeed <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/:RaheebAref" alt="Raheeb Aref" /></a></h1>
-<h3 align="center">👀 I'm interested in Mechatronics And new Technology</h3>
+<h3 align="center">👀 I'm interested in Mechatronics and new Technology</h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" style="width: 100%; max-width: 400px; height: auto; margin: 10px;" />
@@ -7,15 +7,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" style="width: 100%; max-width: 400px; height: auto; margin: 10px;" />
 </div>
 
-<div>
+### About Me
 - 🌱 I’m currently learning **Smart Industry**.
 - 💞️ I’m looking to collaborate on **projects related to signal processing, smart industry, or innovative embedded systems solutions**.
 - 📫 How to reach me: **[raheebareef@gmail.com](mailto:raheebareef@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/raheb-saeed/)**.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I have a passion for combining robotics with mechatronics, and I enjoy experimenting with new embedded systems!**
-</div>
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
     <a href="https://www.linkedin.com/in/raheb-saeed/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://www.facebook.com/raheeb.almikhlafy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
@@ -25,7 +24,7 @@
     <a href="https://orcid.org/0009-0005-5613-8767" target="_blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Skills and Languages:</h3>
+### Skills and Languages:
 <p>
     <img src="https://img.shields.io/badge/MATLAB-F5B701?style=flat&logo=matlab&logoColor=black" alt="MATLAB" />
     <img src="https://img.shields.io/badge/CATIA-5D5D5D?style=flat&logo=catia&logoColor=white" alt="CATIA" />
@@ -40,7 +39,7 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
-    [<img src="[https://img.shields.io/badge/TIA%20Portal-000000](https://i.ytimg.com/vi/9aPqCdvC3gU/hqdefault.jpg)?style=flat&logo=siemens&logoColor=white" alt="TIA Portal" />](https://i.ytimg.com/vi/9aPqCdvC3gU/hqdefault.jpg)
+    <img src="https://img.shields.io/badge/TIA%20Portal-000000?style=flat&logo=siemens&logoColor=white" alt="TIA Portal" />
     <img src="https://img.shields.io/badge/Node.js-8CC84C?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
     <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON" />
