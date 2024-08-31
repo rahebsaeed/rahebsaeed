@@ -1,9 +1,10 @@
 <h1 align="center">👋 Hi, I’m @rahebsaeed <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/:RaheebAref" alt="Raheeb Aref" /></a></h1>
 <h3 align="center">👀 I'm interested in Mechatronics And new Technologyy</h3>
+<p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" /></p
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" /></p>
+</p>
 - 🌱 I’m currently learning **Smart Industry**.
 - 💞️ I’m looking to collaborate on **projects related to signal processing, smart industry, or innovative embedded systems solutions**.
 - 📫 How to reach me: **[raheebareef@gmail.com](mailto:raheebareef@gmail.com)** or connect with me on **[https://www.linkedin.com/in/raheb-saeed/](https://www.linkedin.com/in/raheb-saeed/)**.
