@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I’m @rahebsaeed <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/:RaheebAref" alt="Raheeb Aref" /></a></h1>
 <h3 align="center">👀 I'm interested in Mechatronics And new Technology</h3>
 
-<div class="stats-container">
-    <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" />
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" width="33%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" width="33%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" width="33%" />
 </div>
 
 <ul>
@@ -21,7 +21,7 @@
     <a href="https://www.facebook.com/raheeb.almikhlafy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
     <a href="https://www.instagram.com/raheeb_aref/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
     <a href="https://twitter.com/RaheebAref" target="_blank"><img align="center" src="https://support-assets.githubassets.com/packs/static/app/assets/images/footer/twitter-0f757c30303936ee3905.svg" alt="Twitter" height="30" width="40" /></a>
-    <a href="https://www.researchgate.net/profile/Raheb-Saeed-2" target="_blank"><img align="center" src="https://c5.rgstatic.net/m/42199702882742/images/favicon/favicon-32x32.png" alt="ResearchGate" height="30" width="30" /></a>
+    <a href="https://www.researchgate.net/profile/Raheb-Saeed-2" target="_blank"><img align="center" src="https://c5.rgstatic.net/m/42199702882742/images/favicon/favicon-32x32.png" alt="ResearchGate" height="30" width="40" /></a>
     <a href="https://orcid.org/0009-0005-5613-8767" target="_blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" height="30" width="40" /></a>
 </p>
 
@@ -53,20 +53,3 @@
     <img src="https://img.shields.io/badge/Ladder-0066CC?style=flat&logo=automation&logoColor=white" alt="Ladder" />
     <img src="https://img.shields.io/badge/FluidSIM-0078D4?style=flat&logo=siemens&logoColor=white" alt="FluidSIM" />
 </p>
-<style>
-    .stats-container {
-        display: flex;
-        justify-content: space-around; /* Distribute images evenly */
-        margin-bottom: 20px; /* Space below the container */
-    }
-
-    .stats-container img {
-        max-width: 100%; /* Ensure images don't overflow */
-        height: auto; /* Maintain aspect ratio */
-        margin: 0 10px; /* Space between images */
-    }
-
-    ul {
-        padding-left: 20px; /* Add padding to avoid overlap with images */
-    }
-</style>
