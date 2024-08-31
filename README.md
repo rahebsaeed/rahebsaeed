@@ -2,8 +2,8 @@
 <h3 align="center">👀 I'm interested in Mechatronics And new Technology</h3>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" width="33%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" width="33%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" width="50%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" width="50%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" width="100%" />
 </div>
 
