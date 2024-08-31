@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m @rahebsaeed</h1>
-<h2 align="center">👀 I'm interested in Mechatronics And new Technologyy</h2>
+<h3 align="center">👀 I'm interested in Mechatronics And new Technologyy</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/:RaheebAref" alt="Raheeb Aref" /></a> </p>
 
 - 🌱 I’m currently learning **Smart Industry**.
@@ -9,7 +9,7 @@
 - ⚡ Fun fact: **I have a passion for combining robotics with mechatronics, and I enjoy experimenting with new embedded systems!**
 
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raheb-saeed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alawi masfar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/raheeb.almikhlafy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="علوي بن أحمد" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 <a href="https://orcid.org/0009-0005-5613-8767" target="blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="alawi masfar" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Skill ands Languages :</h2>
+<h3 align="left">Skill ands Languages :</h3>
 <p>
    <img src="https://img.shields.io/badge/MATLAB-F5B701?style=flat&logo=matlab&logoColor=black" alt="MATLAB" />
    <img src="https://img.shields.io/badge/CATIA-5D5D5D?style=flat&logo=catia&logoColor=white" alt="CATIA" />
