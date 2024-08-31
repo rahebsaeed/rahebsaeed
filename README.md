@@ -3,8 +3,8 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" style="width: 100%; max-width: 400px; height: auto; margin: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" style="width: 100%; max-width: 400px; height: auto; margin: 10px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
 </div>
 
 ### About Me
