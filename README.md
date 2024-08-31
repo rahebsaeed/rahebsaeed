@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m @rahebsaeed</h1>
 <h3 align="center">👀 I'm interested in Mechatronics And new Technologyy</h3>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/:RaheebAref" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Smart Industry**.
 - 💞️ I’m looking to collaborate on **projects related to signal processing, smart industry, or innovative embedded systems solutions**.
