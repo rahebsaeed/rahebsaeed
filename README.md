@@ -8,14 +8,13 @@
 
 
 </p>
-
-<ul align="left">
-    <li>🌱 I’m currently learning <strong>Smart Industry</strong>.</li>
-    <li>💞️ I’m looking to collaborate on <strong>projects related to signal processing, smart industry, or innovative embedded systems solutions</strong>.</li>
-    <li>📫 How to reach me: <strong><a href="mailto:raheebareef@gmail.com">raheebareef@gmail.com</a></strong> or connect with me on <strong><a href="https://www.linkedin.com/in/raheb-saeed/">LinkedIn</a></strong>.</li>
-    <li>😄 Pronouns: <strong>He/Him</strong></li>
-    <li>⚡ Fun fact: <strong>I have a passion for combining robotics with mechatronics, and I enjoy experimenting with new embedded systems!</strong></li>
-</ul>
+<div>
+- 🌱 I’m currently learning **Smart Industry**.
+- 💞️ I’m looking to collaborate on **projects related to signal processing, smart industry, or innovative embedded systems solutions**.
+- 📫 How to reach me: **[raheebareef@gmail.com](mailto:raheebareef@gmail.com)** or connect with me on **[Linkdin](https://www.linkedin.com/in/raheb-saeed/)**.
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I have a passion for combining robotics with mechatronics, and I enjoy experimenting with new embedded systems!**
+</div
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
