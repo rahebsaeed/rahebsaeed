@@ -20,32 +20,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> &nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> &nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg" alt="xd" width="40" height="40"/> </a>
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://jwt.io" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1091/1*og_vgEc096UAqtExpW49Ug.jpeg" alt="xd" width="110" height="40"/> </a>
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://vitejs.dev" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="40" height="40"/> </a>
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.cisco.com" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/861_cisco.jpg" alt="cisco" width="40" height="40"/> </a>
-&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.notion.so" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="Notion" width="40" height="40"/> </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" /></p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<p>&nbsp&nbsp&nbsp&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" /></p><br/>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" /></p>
-
-
-- **HTML**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+<p>
+  - **HTML**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - **CSS**: ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 - **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
 - **SQL**: ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white)
@@ -58,4 +34,23 @@
 - **Arduino**: ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 - **TIA Portal**: ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-000000?style=flat&logo=siemens&logoColor=white)
 - **Node.js**: ![Node.js](https://img.shields.io/badge/Node.js-8CC84C?style=flat&logo=node.js&logoColor=white)
+
+- **PHP**: ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+- **JSON**: ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+- **XML**: ![XML](https://img.shields.io/badge/XML-000000?style=flat&logo=xml&logoColor=white)
+- **AutoCAD**: ![AutoCAD](https://img.shields.io/badge/AutoCAD-#D81D4A?style=flat&logo=autocad&logoColor=white)
+- **Step7**: ![Step7](https://img.shields.io/badge/Step7-00A3E0?style=flat&logo=siemens&logoColor=white)
+- **Microsoft 365**: ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat&logo=microsoft&logoColor=white)
+- **MELFA-BASIC IV**: ![MELFA-BASIC IV](https://img.shields.io/badge/MELFA-BASIC%20IV-0078D4?style=flat&logo=siemens&logoColor=white)
+- **MikroC**: ![MikroC](https://img.shields.io/badge/MikroC-000000?style=flat&logo=c&logoColor=white)
+- **WinCC Flexible**: ![WinCC Flexible](https://img.shields.io/badge/WinCC%20Flexible-000000?style=flat&logo=siemens&logoColor=white)
+- **Grafcet**: ![Grafcet](https://img.shields.io/badge/Grafcet-FF5733?style=flat&logo=automation&logoColor=white)
+- **Ladder**: ![Ladder](https://img.shields.io/badge/Ladder-0066CC?style=flat&logo=automation&logoColor=white)
+- **FluidSIM**: ![FluidSIM](https://img.shields.io/badge/FluidSIM-0078D4?style=flat&logo=siemens&logoColor=white)
+
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" /></p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<p>&nbsp&nbsp&nbsp&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" /></p><br/>
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" /></p>
 
