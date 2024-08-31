@@ -19,7 +19,7 @@
     <a href="https://www.linkedin.com/in/raheb-saeed/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://www.facebook.com/raheeb.almikhlafy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
     <a href="https://www.instagram.com/raheeb_aref/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-    <a href="https://twitter.com/RaheebAref" target="_blank"><img align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" alt="Twitter" height="30" width="40" /></a>
+    <a href="https://twitter.com/RaheebAref" target="_blank"><img align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-svg.ea5ff4aa.svg" alt="Twitter" height="30" width="40" /></a>
     <a href="https://www.researchgate.net/profile/Raheb-Saeed-2" target="_blank"><img align="center" src="https://c5.rgstatic.net/m/42199702882742/images/favicon/favicon-32x32.png" alt="ResearchGate" height="30" width="40" /></a>
     <a href="https://orcid.org/0009-0005-5613-8767" target="_blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="ORCID" height="30" width="40" /></a>
 </p>
