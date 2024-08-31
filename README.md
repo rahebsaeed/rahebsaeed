@@ -1,11 +1,12 @@
 <h1 align="center">👋 Hi, I’m @rahebsaeed <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/:RaheebAref" alt="Raheeb Aref" /></a></h1>
 <h3 align="center">👀 I'm interested in Mechatronics And new Technology</h3>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" width="100%" style="max-width: 400px; height: auto;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" width="100%" style="max-width: 400px; height: auto;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" width="100%" style="max-width: 400px; height: auto;" />
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" width="45%" />
+</p>
+
 <ul align="left">
     <li>🌱 I’m currently learning <strong>Smart Industry</strong>.</li>
     <li>💞️ I’m looking to collaborate on <strong>projects related to signal processing, smart industry, or innovative embedded systems solutions</strong>.</li>
