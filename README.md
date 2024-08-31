@@ -20,19 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-- **HTML**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-- **CSS**: ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
-- **SQL**: ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white)
-- **Python**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **C**: ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-- **C++**: ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- **C#**: ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-- **MATLAB**: ![MATLAB](https://img.shields.io/badge/MATLAB-F5B701?style=flat&logo=matlab&logoColor=black)
-- **CATIA**: ![CATIA](https://img.shields.io/badge/CATIA-5D5D5D?style=flat&logo=catia&logoColor=white)
-- **Arduino**: ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-- **TIA Portal**: ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-000000?style=flat&logo=siemens&logoColor=white)
-- **Node.js**: ![Node.js](https://img.shields.io/badge/Node.js-8CC84C?style=flat&logo=node.js&logoColor=white)
+- **HTML**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) - **CSS**: ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) - **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black) - **SQL**: ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white) - **Python**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) - **C**: ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) - **C++**: ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) - **C#**: ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) - **MATLAB**: ![MATLAB](https://img.shields.io/badge/MATLAB-F5B701?style=flat&logo=matlab&logoColor=black) - **CATIA**: ![CATIA](https://img.shields.io/badge/CATIA-5D5D5D?style=flat&logo=catia&logoColor=white) - **Arduino**: ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) - **TIA Portal**: ![TIA Portal](https://img.shields.io/badge/TIA%20Portal-000000?style=flat&logo=siemens&logoColor=white) - **Node.js**: ![Node.js](https://img.shields.io/badge/Node.js-8CC84C?style=flat&logo=node.js&logoColor=white)
 
 - **PHP**: ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 - **JSON**: ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
