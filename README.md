@@ -20,8 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
-  - **HTML**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+- **HTML**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - **CSS**: ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 - **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)
 - **SQL**: ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white)
@@ -47,8 +46,6 @@
 - **Grafcet**: ![Grafcet](https://img.shields.io/badge/Grafcet-FF5733?style=flat&logo=automation&logoColor=white)
 - **Ladder**: ![Ladder](https://img.shields.io/badge/Ladder-0066CC?style=flat&logo=automation&logoColor=white)
 - **FluidSIM**: ![FluidSIM](https://img.shields.io/badge/FluidSIM-0078D4?style=flat&logo=siemens&logoColor=white)
-
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" /></p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <p>&nbsp&nbsp&nbsp&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" /></p><br/>
