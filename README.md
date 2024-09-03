@@ -54,9 +54,19 @@
 
 ### Skills and Languages:
 <p>
-    <img src="https://img.shields.io/badge/MATLAB-F5B701?style=flat&logo=matlab&logoColor=black" alt="MATLAB" />
-<img src="https://img.shields.io/badge/CATIA-5D5D5D?style=flat&logo=catia&logoColor=white" alt="CATIA" />
-           <img src="https://img.shields.io/badge/AutoCAD-%23D81D4A?style=flat&logo=autocad&logoColor=white" alt="AutoCAD" />
+|   <img src="https://img.shields.io/badge/MATLAB-F5B701?style=flat&logo=matlab&logoColor=black" alt="MATLAB" />              |
+|   <img src="https://img.shields.io/badge/CATIA-5D5D5D?style=flat&logo=catia&logoColor=white" alt="CATIA" />             |
+|   <img src="https://img.shields.io/badge/AutoCAD-%23D81D4A?style=flat&logo=autocad&logoColor=white" alt="AutoCAD" />         |
+|            |
+| Multitasking            |
+| Interpersonal           |
+| Leadership              |
+| Time Management         |
+| Initiative              |
+
+    
+
+           
  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft 365" />
     <img src="https://img.shields.io/badge/Step7-00A3E0?style=flat&logo=siemens&logoColor=white" alt="Step7" />
        <img src="https://img.shields.io/badge/TIA%20Portal-000000?style=flat&logo=siemens&logoColor=white" alt="TIA Portal" />
