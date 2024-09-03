@@ -39,31 +39,46 @@
 </p>
 
 
-### Skills and Languages:
+### Skills and Languages
+
+#### Soft Skills
 <p>
-    <img src="https://img.shields.io/badge/MATLAB-F5B701?style=flat&logo=matlab&logoColor=black" alt="MATLAB" />
-<img src="https://img.shields.io/badge/CATIA-5D5D5D?style=flat&logo=catia&logoColor=white" alt="CATIA" />
-           <img src="https://img.shields.io/badge/AutoCAD-%23D81D4A?style=flat&logo=autocad&logoColor=white" alt="AutoCAD" />
- <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft 365" />
-    <img src="https://img.shields.io/badge/Step7-00A3E0?style=flat&logo=siemens&logoColor=white" alt="Step7" />
-       <img src="https://img.shields.io/badge/TIA%20Portal-000000?style=flat&logo=siemens&logoColor=white" alt="TIA Portal" />
-    <img src="https://img.shields.io/badge/MELFA-BASIC%20IV-0078D4?style=flat&logo=siemens&logoColor=white" alt="MELFA-BASIC IV" />
-    <img src="https://img.shields.io/badge/MikroC-000000?style=flat&logo=c&logoColor=white" alt="MikroC" />
-    <img src="https://img.shields.io/badge/Grafcet-FF5733?style=flat&logo=automation&logoColor=white" alt="Grafcet" />
-    <img src="https://img.shields.io/badge/Ladder-0066CC?style=flat&logo=automation&logoColor=white" alt="Ladder" />
-    <img src="https://img.shields.io/badge/WinCC%20Flexible-000000?style=flat&logo=siemens&logoColor=white" alt="WinCC Flexible" />
+    <img src="https://img.shields.io/badge/Teamwork-000000?style=flat&logo=teamwork&logoColor=white" alt="Teamwork" />
+    <img src="https://img.shields.io/badge/Observation-000000?style=flat&logo=eye&logoColor=white" alt="Observation" />
+    <img src="https://img.shields.io/badge/Decision%20Making-000000?style=flat&logo=brain&logoColor=white" alt="Decision Making" />
+    <img src="https://img.shields.io/badge/Communication-000000?style=flat&logo=comments&logoColor=white" alt="Communication" />
+    <img src="https://img.shields.io/badge/Multitasking-000000?style=flat&logo=tasks&logoColor=white" alt="Multitasking" />
+    <img src="https://img.shields.io/badge/Interpersonal-000000?style=flat&logo=people&logoColor=white" alt="Interpersonal" />
+    <img src="https://img.shields.io/badge/Leadership-000000?style=flat&logo=star&logoColor=white" alt="Leadership" />
+    <img src="https://img.shields.io/badge/Time%20Management-000000?style=flat&logo=clock&logoColor=white" alt="Time Management" />
+    <img src="https://img.shields.io/badge/Initiative-000000?style=flat&logo=rocket&logoColor=white" alt="Initiative" />
+</p>
+
+#### Technical Skills
+<p>
+    <img src="https://img.shields.io/badge/Microsoft%20Word-217346?style=flat&logo=microsoft-word&logoColor=white" alt="Microsoft Word" />
+    <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
+    <img src="https://img.shields.io/badge/AutoCAD-%23D81D4A?style=flat&logo=autocad&logoColor=white" alt="AutoCAD" />
     <img src="https://img.shields.io/badge/FluidSIM-0078D4?style=flat&logo=siemens&logoColor=white" alt="FluidSIM" />
+    <img src="https://img.shields.io/badge/TIA%20Portal-000000?style=flat&logo=siemens&logoColor=white" alt="TIA Portal" />
+    <img src="https://img.shields.io/badge/STEP7-00A3E0?style=flat&logo=siemens&logoColor=white" alt="STEP7" />
+    <img src="https://img.shields.io/badge/CATIA-5D5D5D?style=flat&logo=catia&logoColor=white" alt="CATIA" />
+    <img src="https://img.shields.io/badge/MATLAB-F5B701?style=flat&logo=matlab&logoColor=black" alt="MATLAB" />
+    <img src="https://img.shields.io/badge/MikroC-000000?style=flat&logo=c&logoColor=white" alt="MikroC" />
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/Node.js-8CC84C?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON" />
-    <img src="https://img.shields.io/badge/XML-000000?style=flat&logo=xml&logoColor=white" alt="XML" />
+    <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white" alt="SQL" />
 </p>
+
+#### Languages
+<p>
+    <img src="https://img.shields.io/badge/Arabic-%23FFBF00?style=flat&logo=language&logoColor=white" alt="Arabic" />
+    <img src="https://img.shields.io/badge/English-%23FFBF00?style=flat&logo=language&logoColor=white" alt="English" />
+    <img src="https://img.shields.io/badge/French-%23FFBF00?style=flat&logo=language&logoColor=white" alt="French" />
+</p>
+
