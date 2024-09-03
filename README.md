@@ -30,12 +30,20 @@
     <a href="https://twitter.com/RaheebAref" target="_blank" >
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
-    <a href="https://www.researchgate.net/profile/Raheb-Saeed-2" target="_blank" >
+</p>
+
+### Find My Works
+<p>
+    <a href="https://github.com/rahebsaeed" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>   
+    <a href="https://www.researchgate.net/profile/Raheb-Saeed-2" target="_blank">
         <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
     </a>
-    <a href="https://orcid.org/0009-0005-5613-8767" target="_blank" >
+    <a href="https://orcid.org/0009-0005-5613-8767" target="_blank">
         <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
     </a>
+
 </p>
 
 
