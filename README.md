@@ -8,6 +8,17 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
 </div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true" />
+</picture>
 
 ### About Me
 - 🌱 I’m currently learning **Smart Industry**.
