@@ -6,8 +6,8 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahebsaeed" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahebsaeed&layout=pie" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
+
 </div>
 
 
