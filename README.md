@@ -1,11 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahebsaeed&label=Profile%20views&color=0e75b6&style=flat" alt="Raheb Saeed" />
- <img width="100px" src="https://res.cloudinary.com/rahebsaeed/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
 </p>
 <h1 align="center">👋 Hi, I’m @rahebsaeed <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/:RaheebAref" alt="Raheeb Aref" /></a></h1>
 <h3 align="center">👀 I'm interested in Mechatronics and new Technology</h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&locale=en" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahebsaeed&show_icons=true&locale=en&layout=compact" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
 </div>
