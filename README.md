@@ -11,10 +11,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
         </a>
         <a href="https://wakatime.com/@rahebsaeed">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahebsaeed&layout=compact&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px; display: block; top: 0px" />  
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahebsaeed&layout=compact&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />  
         </a>
     <a href="https://github.com/rahebsaeed/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahebsaeed&layout=pie&theme=transparent"  alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px; display: block; top: 0px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahebsaeed&layout=pie&theme=transparent"  alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
     </a>
 </div>
 
