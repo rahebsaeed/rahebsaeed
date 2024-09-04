@@ -8,7 +8,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahebsaeed&layout=pie&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahebsaeed&layout=compact&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahebsaeed&repo=github-readme-stats&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahebsaeed&repo=RahebPDF&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
 </div>
 
 
