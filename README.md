@@ -1,5 +1,10 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahebsaeed&label=Profile%20views&color=0e75b6&style=flat" alt="Raheb Saeed" />
-<img src="https://wakatime.com/badge/user/c559a635-e419-44e3-994a-006618e93c60.svg" alt="Waka Time" /></p>
+<p align="left"> 
+        <a href="https://github.com/rahebsaeed/">
+        <img src="https://komarev.com/ghpvc/?username=rahebsaeed&label=Profile%20views&color=0e75b6&style=flat" alt="Raheb Saeed" />
+        </a>
+         <a href="https://wakatime.com/@rahebsaeed">
+<img src="https://wakatime.com/badge/user/c559a635-e419-44e3-994a-006618e93c60.svg" alt="Waka Time" />
+         </a></p>
 <h1 align="center">👋 Hi, I’m @rahebsaeed <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/:RaheebAref" alt="Raheeb Aref" /></a></h1>
 <h3 align="center">👀 I'm interested in Mechatronics and new Technology</h3>
 
