@@ -1,24 +1,24 @@
 <p align="left"> 
-        <a href="https://github.com/rahebsaeed/">
+        <a href="https://github.com/rahebsaeed/"  target="_blank">
         <img src="https://komarev.com/ghpvc/?username=rahebsaeed&label=Profile%20views&color=0e75b6&style=flat" alt="Raheb Saeed" />
         </a>
-         <a href="https://wakatime.com/@rahebsaeed">
+         <a href="https://wakatime.com/@rahebsaeed"  target="_blank">
 <img src="https://wakatime.com/badge/user/c559a635-e419-44e3-994a-006618e93c60.svg" alt="Waka Time" />
          </a></p>
 <h1 align="center">👋 Hi, I’m @rahebsaeed <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/:RaheebAref" alt="Raheeb Aref" /></a></h1>
 <h3 align="center">👀 I'm interested in Mechatronics and new Technology</h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-        <a href="https://github.com/rahebsaeed/">
+        <a href="https://github.com/rahebsaeed/"  target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
         </a>
-        <a href="https://github.com/rahebsaeed/">
+        <a href="https://github.com/rahebsaeed/"  target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
         </a>
-        <a href="https://wakatime.com/@rahebsaeed">
+        <a href="https://wakatime.com/@rahebsaeed"  target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahebsaeed&layout=compact&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />  
         </a>
-    <a href="https://github.com/rahebsaeed/">
+    <a href="https://github.com/rahebsaeed/"  target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahebsaeed&layout=pie&theme=transparent"  alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
     </a>
 </div>
