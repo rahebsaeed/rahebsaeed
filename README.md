@@ -27,7 +27,8 @@
 ### About Me
 - 🌱 I’m currently learning **Smart Industry**.
 - 💞️ I’m looking to collaborate on **projects smart industry, or innovative embedded systems solutions**.
-- 📫 How to reach me: **[raheebareef@gmail.com](mailto:raheebareef@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/raheb-saeed/)**.
+- 📫 How to reach me: **<a href="mailto:raheebareef@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />**.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I have a passion for combining robotics with mechatronics, and I enjoy experimenting with new embedded systems!**
 
@@ -46,10 +47,17 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://twitter.com/RaheebAref" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+        <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" alt="Twitter" />
+    </a>
     <a href="https://www.threads.net/@raheeb_aref" target="_blank">
-        <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Twitter" />
-    </a>    </a>
+        <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" />
+    </a>  
+    <a href="https://www.reddit.com/user/raheb_aref/" target="_blank">
+        <img src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500" alt="Reddit" />
+    </a>              
+    <a href="http://t.me/rahebsaeed" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram" />
+    </a>
 </p>
 
 
