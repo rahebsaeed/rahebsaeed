@@ -59,7 +59,7 @@
         <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram" />
     </a>
     <a href="https://medium.com/@rahibaref1" target="_blank">
-        <img src=https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+        <img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
 </p>
 
