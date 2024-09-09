@@ -27,8 +27,6 @@
 ### About Me
 - 🌱 I’m currently learning **Smart Industry**.
 - 💞️ I’m looking to collaborate on **projects smart industry, or innovative embedded systems solutions**.
-- 📫 How to reach me: **<a href="mailto:raheebareef@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />**.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I have a passion for combining robotics with mechatronics, and I enjoy experimenting with new embedded systems!**
 
@@ -37,6 +35,8 @@
 ### Connect with Me
 
 <p align="left">
+        <a href="mailto:raheebareef@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
     <a href="https://www.linkedin.com/in/raheb-saeed/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -57,6 +57,9 @@
     </a>              
     <a href="http://t.me/rahebsaeed" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram" />
+    </a>
+    <a href="https://medium.com/@rahibaref1" target="_blank">
+        <img src=https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
 </p>
 
