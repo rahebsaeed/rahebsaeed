@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
         </a>
         <a href="https://github.com/rahebsaeed/"  target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahebsaeed&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
+    <img src="https://streak-stats.demolab.com/?user=rahebsaeed&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />
         </a>
         <a href="https://wakatime.com/@rahebsaeed"  target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahebsaeed&layout=compact&theme=transparent" alt="rahebsaeed" style="width: auto; max-width: 40%; height: auto; margin: 10px;" />  
