@@ -27,6 +27,30 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/rahebsaeed">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&theme=transparent" alt="Raheb's GitHub Stats" />
+</a>
+
+<a href="https://github.com/rahebsaeed">
+  <img src="https://streak-stats.demolab.com/?user=rahebsaeed&theme=transparent" alt="Raheb's GitHub Streak" />
+</a>
+
+<a href="https://wakatime.com/@rahebsaeed">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahebsaeed&layout=compact&theme=transparent" alt="Raheb's WakaTime Stats" />
+</a>
+
+<a href="https://github.com/rahebsaeed">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahebsaeed&layout=compact&theme=transparent" alt="Top Languages" />
+</a>
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 I am an **AI & Robotics Engineer** with a multidisciplinary background in **Mechatronics, Smart Industry, Embedded Systems, Robotics, Computer Vision, and Artificial Intelligence**.
@@ -240,30 +264,6 @@ Explore my repositories and engineering projects:
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/rahebsaeed">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&theme=transparent" alt="Raheb's GitHub Stats" />
-</a>
-
-<a href="https://github.com/rahebsaeed">
-  <img src="https://streak-stats.demolab.com/?user=rahebsaeed&theme=transparent" alt="Raheb's GitHub Streak" />
-</a>
-
-<a href="https://wakatime.com/@rahebsaeed">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahebsaeed&layout=compact&theme=transparent" alt="Raheb's WakaTime Stats" />
-</a>
-
-<a href="https://github.com/rahebsaeed">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahebsaeed&layout=compact&theme=transparent" alt="Top Languages" />
-</a>
-
-</div>
 
 ---
 
