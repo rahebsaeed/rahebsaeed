@@ -32,19 +32,15 @@
 <div align="center">
 
 <a href="https://github.com/rahebsaeed">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahebsaeed&show_icons=true&theme=transparent" alt="Raheb's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rahebsaeed&show_icons=true&theme=transparent" alt="Raheb's GitHub Stats" />
 </a>
 
 <a href="https://github.com/rahebsaeed">
   <img src="https://streak-stats.demolab.com/?user=rahebsaeed&theme=transparent" alt="Raheb's GitHub Streak" />
 </a>
 
-<a href="https://wakatime.com/@rahebsaeed">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahebsaeed&layout=compact&theme=transparent" alt="Raheb's WakaTime Stats" />
-</a>
-
 <a href="https://github.com/rahebsaeed">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahebsaeed&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rahebsaeed&layout=compact&theme=transparent" alt="Top Languages" />
 </a>
 
 </div>
