@@ -36,7 +36,10 @@
 </a>
 
 <a href="https://github.com/rahebsaeed">
-  <img src="https://streak-stats.demolab.com/?user=rahebsaeed&theme=transparent" alt="Raheb's GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=rahebsaeed&theme=transparent"
+    alt="Raheb's GitHub Streak"
+  />
 </a>
 
 <a href="https://github.com/rahebsaeed">
